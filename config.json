@@ -79,6 +79,14 @@
           "channel"
         ]
       },  
+	             {
+        "title":"2 الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC7C-kigODYM1DhEO14yKXAA",
+          "channel"
+        ]
+      },  
 	        {
         "title":"Bein Sports News",
         "provider":"youtube",
