@@ -1,13 +1,13 @@
 [
 		
 	  {
-   "title":"Mosaique FM",
+   "title":"أخبار وطنية",
     "drawable":"",
     "submenu":"أخبار وطنية",
     "iap":false,
     "tabs":[
       {
-        "title":"WebView",
+        "title":"Mosaique FM",
         "provider":"webview",
         "arguments":[
           "https://www.mosaiquefm.net/ar/actualites/%D8%AA%D9%88%D9%86%D8%B3-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1"
@@ -15,7 +15,7 @@
       }
 	    ,
 	     {
-        "title":"WebView",
+        "title":"Shems FM",
         "provider":"webview",
         "arguments":[
           "https://www.shemsfm.net/ar/actualites"
@@ -23,50 +23,14 @@
       }
 	,
 	      {
-        "title":"WebView",
+        "title":"Jawhara FM",
         "provider":"webview",
         "arguments":[
           "http://www.jawharafm.net/ar/articles/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/6"
         ]
       }
     ]
-
-  },
-	{
-   "title":"SHEMS FM",
-    "drawable":"",
-    "submenu":"أخبار وطنية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.shemsfm.net/ar/actualites"
-        ]
-      }
-    ]
-
-  },
-	
-	
-	{
-   "title":"Jawhara FM",
-    "drawable":"",
-    "submenu":"أخبار وطنية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.jawharafm.net/ar/articles/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/6"
-        ]
-      }
-    ]
-
-  }
-	,
+,
 {
      "title":" أخبار وطنية 1",
     "drawable":"",
