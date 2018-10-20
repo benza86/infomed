@@ -1,34 +1,5 @@
 [
-		{
-     "title":" أخبار وطنية 1",
-    "drawable":"",
-    "submenu":"أخبار وطنية",
-    "iap":false,
-    "tabs":[
-	           
-	 {
-        "title":"أخبار وطنية 1",
-        "provider":"youtube",
-        "arguments":[
-          "UCdvWVsmQBROkgcGzVep73oA",
-          "channel"
-
-        ]
-     }
-	    ,
-	     {
-        "title":"أخبار نسمة NEws",
-        "provider":"youtube",
-        "arguments":[
-          "UC-48PCT3flS86JkLzxlTA9g",
-          "channel"
-
-        ]
-     }
-	    
-     ]
-     }
-	,
+		
 	  {
    "title":"Mosaique FM",
     "drawable":"",
@@ -40,6 +11,22 @@
         "provider":"webview",
         "arguments":[
           "https://www.mosaiquefm.net/ar/actualites/%D8%AA%D9%88%D9%86%D8%B3-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1"
+        ]
+      }
+	    ,
+	     {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.shemsfm.net/ar/actualites"
+        ]
+      }
+	,
+	      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.jawharafm.net/ar/articles/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/6"
         ]
       }
     ]
@@ -79,10 +66,40 @@
     ]
 
   }
+	,
+{
+     "title":" أخبار وطنية 1",
+    "drawable":"",
+    "submenu":"أخبار وطنية",
+    "iap":false,
+    "tabs":[
+	           
+	 {
+        "title":"أخبار وطنية 1",
+        "provider":"youtube",
+        "arguments":[
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
 
+        ]
+     }
+	    ,
+	     {
+        "title":"أخبار نسمة NEws",
+        "provider":"youtube",
+        "arguments":[
+          "UC-48PCT3flS86JkLzxlTA9g",
+          "channel"
+
+        ]
+     }
+	    
+     ]
+     }
+	,
 	    
   
-	,
+	
 
   {
     "title":"كرة قدم ملخصات و أهداف",
