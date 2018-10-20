@@ -78,27 +78,206 @@
       }
     ]
 
-  },
-	{
-     "title":" كرة قدم ملخصات و أهداف",
+  }
+
+	    
+  
+	,
+
+  {
+    "title":"كرة قدم ملخصات و أهداف",
     "drawable":"",
     "submenu":"أخبار وطنية",
     "iap":false,
     "tabs":[
-	           
-	 {
-        "title":"ملخصات",
+	        {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCLT0U-qIpN71Nruvxg5jKhA",
+          "channel"
+        ]
+      },  
+	
+	        {
+        "title":"جميع الدوريات",
+        "provider":"youtube",
+        "arguments":[
+          "UC7C-kigODYM1DhEO14yKXAA",
+          "channel"
+        ]
+      },  
+	
+	         {
+        "title":"دوريات عربية",
+        "provider":"youtube",
+        "arguments":[
+          "UClE5zzddLBcBwD2n7RfnWmQ",
+          "channel"
+        ]
+      },  
+	
+	            {
+        "title":"ملخصات عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCfZ0cC-UlXMVWQ6rCvP3dLw",
+          "channel"
+        ]
+      },  
+	    
+	  	  	   {
+        "title":"الدوري الاسباني",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	  	   {
+        "title":"الدوري الفرنسي",
+        "provider":"youtube",
+        "arguments":[
+          "UC58LMAlfwtGRNR6Xpd4DlSA",
+          "channel"
+
+        ]
+      },
+     
+      {
+        "title":"الدوري السعودي",
+        "provider":"youtube",
+        "arguments":[
+          "UCuv25YFiKY3NUnuG7q7F3ng",
+          "channel"
+        ]
+      }
+	   ,
+	       {
+        "title":"مباريات ",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+        ]
+      },  
+	
+	     {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      },
+	
+	    	     {
+        "title":"بي اين الاخبارية",
+        "provider":"youtube",
+        "arguments":[
+          "UCqXVEbCxzMh-Xljo7ApVgTQ",
+          "channel"
+        ]
+      },
+	
+	 
+	          {
+        "title":"أخبار الرياضة",
+        "provider":"youtube",
+        "arguments":[
+          "UC51TwW6evn4oWD8rPBZVynQ",
+          "channel"
+
+        ]
+      },
+	    	          {
+        "title": "On Sport",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "channel"
+
+        ]
+      },
+	    
+
+ 
+	  
+	     
+	
+
+	
+	     {
+              "title":"تعليق عربي",
         "provider":"youtube",
         "arguments":[
           "UCgPQ-ItOBKAGQSshL0CFA5w",
           "channel"
 
         ]
-     }
+      }
+	    ,
+	  
+	  	  	
+
+	    {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	      
+     
+	     
 	    
-     ]
-     }
-	,
+   {
+        "title":"Le Sport avec CANAL",
+        "provider":"youtube",
+        "arguments":[
+          "UC8ggH3zU61XO0nMskSQwZdA",
+          "channel"
+
+        ]
+      },
+	
+	    
+	    {
+        "title":"Foot Mercato",
+        "provider":"youtube",
+        "arguments":[
+          "UCrzDtXyuSBch2u_31JJj-Dw",
+          "channel"
+
+        ]
+      }
+	    ,
+	    {
+        "title":"AFTER FOOT",
+        "provider":"youtube",
+        "arguments":[
+          "UCUdwSuEopnWNpibR9-dgciw",
+          "channel"
+
+        ]
+      },
+
+	
+      {
+              "title":"تعليق عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+
+        ]
+      }
+	  
+    ]
+  },
 	
 	{
    "title":"أخبار موزاييك",
