@@ -87,14 +87,22 @@
   {
     "title":"كرة قدم ملخصات و أهداف",
     "drawable":"",
-    "submenu":"أخبار وطنية",
+    "submenu":"أخبار الرياضة",
     "iap":false,
     "tabs":[
-	        {
+	         {
         "title":"الاهداف و الملخصات",
         "provider":"youtube",
         "arguments":[
           "UCLT0U-qIpN71Nruvxg5jKhA",
+          "channel"
+        ]
+      },  
+	        {
+        "title":"Bein Sports News",
+        "provider":"youtube",
+        "arguments":[
+          "UCuqY7oLL8bnnB3Eg9oPGC_A",
           "channel"
         ]
       },  
