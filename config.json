@@ -327,7 +327,7 @@
   },
 	
 	{
-    "title":"شاشة بالعرض : الوطنية 1 ",
+    "title":"الوطنية 1 ",
     "drawable":"",
    "submenu":"بث مباشر",
     "iap":false,
@@ -344,7 +344,7 @@
 
   },
 	  {
-    "title":"شاشة بالعرض : الوطنية 2",
+    "title":" الوطنية 2",
     "drawable":"",
    "submenu":"بث مباشر",
     "iap":false,
@@ -354,7 +354,7 @@
         "title":"Watania 2",
         "provider":"webview",
         "arguments":[
-"http://www.watania2.tn/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D9%80%D8%A7%D8%B4%D8%B1/%D9%85%D8%AD%D8%AA%D9%88%D9%89"
+"https://tunisie360.net/tv-tunisienne/wataniya-2"
 	]
       }
     ]
@@ -394,6 +394,23 @@
 
   }
 	
+	    ,
+			 {
+   "title":"Attasia",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://tunisie360.net/tv-tunisienne/attasia-tv"        ]
+      }
+    ]
+
+  }
+	  
 	    ,
 	 {
    "title":"France 24 Ar",
