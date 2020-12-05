@@ -594,16 +594,7 @@
         ]
      }
 	      ,
-	 {
-        "title":"الجزيرة",
-        "provider":"youtube",
-        "arguments":[
-          "UCfiwzLy-8yKzIbsmZTzxDgw",
-          "channel"
-
-        ]
-     }
-	          ,
+	
 	 {
         "title":"France 24",
         "provider":"youtube",
